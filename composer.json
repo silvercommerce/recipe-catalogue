@@ -1,7 +1,7 @@
 {
-    "name": "silverstripe-commerce/recipe-catalogue",
+    "name": "silvercommerce/recipe-catalogue",
     "type": "silverstripe-recipe",
-    "description": "SilverStripe recipe for fully featured page and asset content editing",
+    "description": "SilverStripe recipe for product catalogue management",
     "homepage": "http://silverstripe.org",
     "license": "BSD-3-Clause",
     "require": {
