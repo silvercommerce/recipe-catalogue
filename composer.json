@@ -1,0 +1,29 @@
+{
+    "name": "silverstripe-commerce/recipe-catalogue",
+    "type": "silverstripe-recipe",
+    "description": "SilverStripe recipe for fully featured page and asset content editing",
+    "homepage": "http://silverstripe.org",
+    "license": "BSD-3-Clause",
+    "require": {
+        "silverstripe/recipe-plugin": "^1",
+        "silverstripe/recipe-core": "1.0.0-rc3",
+        "silverstripe/admin": "1.0.0-rc3",
+        "silverstripe/asset-admin": "1.0.0-rc3",
+        "silverstripe/siteconfig": "4.0.0-rc3",
+        "silverstripe/versioned": "1.0.0-rc3",
+        "i-lateral/silverstripe-catalogue": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/PHPUnit": "^5.7"
+    },
+    "extra": {
+        "project-files": [
+            "mysite/code/*"
+        ]
+    },
+    "config": {
+        "process-timeout": 600
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
