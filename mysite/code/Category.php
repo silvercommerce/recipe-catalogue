@@ -1,6 +1,6 @@
 <?php
 
-use ilateral\SilverStripe\Catalogue\Model\CatalogueCategory;
+use SilverCommerce\CatalogueAdmin\Model\CatalogueCategory;
 
 class Category extends CatalogueCategory {
     

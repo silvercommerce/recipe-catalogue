@@ -1,6 +1,6 @@
 <?php
 
-use ilateral\SilverStripe\Catalogue\Model\CatalogueProduct;
+use SilverCommerce\CatalogueAdmin\Model\CatalogueProduct;
 
 class Product extends CatalogueProduct {
 
